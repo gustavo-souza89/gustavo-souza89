@@ -23,6 +23,8 @@
   <a href = "mailto:gustavo.souzagu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gsouza1201" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 
+   ### Atividades mais recentes
+   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-souza89&repo=mini-curso-node-typescript)](https://github.com/gustavo-souza89/mini-curso-node-typescript)  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-souza89&repo=nlw-valoriza)](https://github.com/gustavo-souza89/nlw-valoriza)
 
